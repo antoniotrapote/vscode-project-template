@@ -7,5 +7,6 @@
     "tests"
   ],
   "editor.formatOnSave": true,
-  "python-envs.pythonProjects": []
+  "python-envs.pythonProjects": [],
+  "python.analysis.typeCheckingMode": "basic"
 }

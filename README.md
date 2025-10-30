@@ -1,4 +1,5 @@
 # VSCode Project Template
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-black?logo=creativecommons&logoColor=white)](LICENSE)
 
 A minimal and clean template for Python projects in Visual Studio Code.  
 It includes a preconfigured `.vscode` folder for environment auto-activation and Copilot instruction files.

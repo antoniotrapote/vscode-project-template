@@ -8,6 +8,6 @@
   ],
   "editor.formatOnSave": true,
   "python-envs.pythonProjects": [],
-  "python.analysis.typeCheckingMode": "basic"
+  "python.analysis.typeCheckingMode": "basic",
   "editor.wordWrap": "on"
 }
